@@ -1,0 +1,12 @@
+estilos
+h1{
+   color: rgb(180,10,100);
+   font-size:50px;
+}
+p{
+    color: red;
+    font-family: aria;
+}
+img{
+   border: 20px solid blue;
+}
